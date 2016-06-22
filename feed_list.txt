@@ -31,3 +31,13 @@ NYT_Arts;http://www.nytimes.com/services/xml/rss/nyt/Arts.xml
 NYT_Travel;http://www.nytimes.com/services/xml/rss/nyt/Travel.xml
 Yahoo_News;http://news.yahoo.com/rss/
 Huffington_Post;http://www.huffingtonpost.com/feeds/news.xml
+FoxNews_Latest;http://feeds.foxnews.com/foxnews/latest
+WP_Politics;http://feeds.washingtonpost.com/rss/politics
+WP_Opinions;http://feeds.washingtonpost.com/rss/opinions
+WP_Local;http://feeds.washingtonpost.com/rss/local
+WP_Sports;http://feeds.washingtonpost.com/rss/sports
+WP_National;http://feeds.washingtonpost.com/rss/national
+WP_World;http://feeds.washingtonpost.com/rss/world
+WP_Business;http://feeds.washingtonpost.com/rss/business
+WP_Lifestyle;http://feeds.washingtonpost.com/rss/lifestyle
+WP_Entertainment;http://feeds.washingtonpost.com/rss/entertainment
