@@ -46,3 +46,6 @@ WSJ_WorldNews;http://www.wsj.com/xml/rss/3_7085.xml
 WSJ_USBusiness;http://www.wsj.com/xml/rss/3_7014.xml
 WSJ_MarketsNews;http://www.wsj.com/xml/rss/3_7031.xml
 WSJ_Technology;http://www.wsj.com/xml/rss/3_7455.xml
+LA_Times;http://www.latimes.com/rss2.0.xml
+NY_Daily_News;http://www.nydailynews.com/cmlink/NYDN.News.rss
+NY_Post;http://nypost.com/feed/
