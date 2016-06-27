@@ -41,3 +41,8 @@ WP_World;http://feeds.washingtonpost.com/rss/world
 WP_Business;http://feeds.washingtonpost.com/rss/business
 WP_Lifestyle;http://feeds.washingtonpost.com/rss/lifestyle
 WP_Entertainment;http://feeds.washingtonpost.com/rss/entertainment
+WSJ_Opinion;http://www.wsj.com/xml/rss/3_7041.xml
+WSJ_WorldNews;http://www.wsj.com/xml/rss/3_7085.xml
+WSJ_USBusiness;http://www.wsj.com/xml/rss/3_7014.xml
+WSJ_MarketsNews;http://www.wsj.com/xml/rss/3_7031.xml
+WSJ_Technology;http://www.wsj.com/xml/rss/3_7455.xml
