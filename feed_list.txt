@@ -7,7 +7,6 @@ Reuters_HealthNews;http://feeds.reuters.com/reuters/healthNews
 Reuters_Lifestyle;http://feeds.reuters.com/reuters/lifestyle
 Reuters_Media;http://feeds.reuters.com/news/reutersmedia
 Reuters_Money;http://feeds.reuters.com/news/wealth
-Reuters_Pictures;http://feeds.reuters.com/ReutersPictures
 Reuters_People;http://feeds.reuters.com/reuters/peopleNews
 Reuters_Politics;http://feeds.reuters.com/Reuters/PoliticsNews
 Reuters_Science;http://feeds.reuters.com/reuters/scienceNews
